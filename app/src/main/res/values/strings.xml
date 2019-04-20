@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Cthulhu Tools</string>
+
+    <string name="name_value">Name(名前)</string>
+    <string name="str_value">STR(筋力)</string>
+    <string name="con_value">CON(体力)</string>
+    <string name="pow_value">POW(精神力)</string>
+    <string name="dex_value">DEX(敏捷性)</string>
+    <string name="app_value">APP(外見)</string>
+    <string name="siz_value">SIZ(体格)</string>
+    <string name="int_value">INT(知性)</string>
+    <string name="edu_value">EDU(教育)</string>
+    <string name="san_value">SAN(正気度)</string>
+    <string name="age_value">Age(年齢)</string>
+    <string name="sex_value">SEX(性別)</string>
+    <string name="background_value">Background(背景)</string>
+    <string name="lack_value">幸運</string>
+    <string name="idea_value">アイディア</string>
+    <string name="know_value">知識</string>
+    <string name="life_value">耐久力</string>
+    <string name="magic_value">MP(魔力)</string>
+    <string name="job_value">職業</string>
+    <string name="skill_value">スキル</string>
+
+
+    <string-array name="sex_list">
+        <item>男</item>
+        <item>女</item>
+        <item>その他</item>
+    </string-array>
+
+    <string-array name="skill_list">
+        <item>こぶし/パンチ</item>
+        <item>キック</item>
+        <item>頭突き</item>
+        <item>組み付き</item>
+        <item>投擲</item>
+        <item>拳銃</item>
+        <item>ライフル</item>
+        <item>ショットガン</item>
+        <item>マシンガン</item>
+        <item>マーシャルアーツ</item>
+
+        <item>目星</item>
+        <item>聞き耳</item>
+        <item>図書館</item>
+        <item>回避</item>
+        <item>応急手当</item>
+        <item>精神分析</item>
+        <item>心理学</item>
+
+        <item>登攀</item>
+        <item>跳躍</item>
+        <item>水泳</item>
+        <item>ナビゲート</item>
+        <item>追跡</item>
+        <item>隠す</item>
+        <item>隠れる</item>
+        <item>忍び歩き</item>
+        <item>変装</item>
+        <item>運転</item>
+        <item>操縦</item>
+        <item>乗馬</item>
+
+        <item>鍵開け</item>
+        <item>写真術</item>
+        <item>製作</item>
+        <item>電気修理</item>
+        <item>機械修理</item>
+        <item>重機械操作</item>
+
+        <item>信用</item>
+        <item>言いくるめ</item>
+        <item>説得</item>
+        <item>値切り</item>
+        <item>他の言語</item>
+        <item>母国語</item>
+
+        <item>経理</item>
+        <item>人類学</item>
+        <item>考古学</item>
+        <item>芸術</item>
+        <item>天文学</item>
+        <item>生物学</item>
+        <item>化学</item>
+        <item>コンピュータ</item>
+        <item>クトゥルフ神話</item>
+        <item>電子工学</item>
+        <item>地質学</item>
+        <item>歴史</item>
+        <item>法律</item>
+        <item>医学</item>
+        <item>博物学</item>
+        <item>オカルト</item>
+        <item>薬学</item>
+        <item>物理学</item>
+    </string-array>
+
+    <string name="save">保存</string>
+    <string name="update">変更</string>
+    <string name="delete">削除</string>
+
+</resources>
